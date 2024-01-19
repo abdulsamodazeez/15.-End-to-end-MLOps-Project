@@ -100,3 +100,4 @@ data/
 __pycache__/ 
 data/ 
 /outputs/ 
+/data
