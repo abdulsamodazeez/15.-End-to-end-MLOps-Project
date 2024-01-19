@@ -1,0 +1,17 @@
+#dagshug== 0.3.12
+hydra-core
+hyperopt
+joblib
+mlflow
+numpy
+pandas
+pandera
+patsy
+pytest-steps
+scikit_learn
+streamlit
+xgboost
+dvc
+pydantic
+pytest
+bentoml
