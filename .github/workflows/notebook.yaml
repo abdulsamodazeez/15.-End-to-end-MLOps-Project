@@ -16,7 +16,7 @@ jobs:
         with:
           check: "all"
           target_branch: master
-          target_repository: DataBootcamp2021/employee_churn
+          target_repository: abdulsamodazeez/Employee_Churn
           update: true
       
       - name: Add, commit, and push changes
